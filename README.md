@@ -1,5 +1,4 @@
-LibraryManagementSystem:
-juiu
+                                      LibraryManagementSystem
 
 Description of the Program:
 
