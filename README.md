@@ -7,15 +7,15 @@ It is a console-based program where users can manage the basic operations of a l
 
 It allows the user to:
 
-Add new books to the library.
+  *Add new books to the library.
 
-Register borrowers (library members).
+  *Register borrowers (library members).
 
-Borrow books and record the transaction.
+  *Borrow books and record the transaction.
 
-Return books and update records.
+  *Return books and update records.
 
-View the list of books, borrowers, and transactions.
+  *View the list of books, borrowers, and transactions.
 
 
 The program uses object-oriented programming concepts by creating classes like Book, Borrower, Transaction, and Library.
@@ -24,15 +24,15 @@ The program uses object-oriented programming concepts by creating classes like B
 
 Purpose of the Program:
 
-The main purpose of this program is to:
+  *The main purpose of this program is to:
 
-Organize and manage library operations easily.
+  *Organize and manage library operations easily.
 
-Track which books are available and which are borrowed.
+  *Track which books are available and which are borrowed.
 
-Record who borrowed which book and when it was returned.
+  *Record who borrowed which book and when it was returned.
 
-Practice object-oriented programming (OOP) skills like classes, objects, and methods.
+  *Practice object-oriented programming (OOP) skills like classes, objects, and methods.
 
 
 It simulates the real-world process of how a library works, but in a simple, beginner-friendly way.
@@ -75,17 +75,17 @@ You can exit the program at any time by choosing Exit.
 
 Technologies and Concepts Used:
 
-Java Programming Language
+  *Java Programming Language
 
-Classes and Objects
+  *Classes and Objects
 
-ArrayList (for storing data)
+  *ArrayList (for storing data)
 
-Scanner (for taking input)
+  *Scanner (for taking input)
 
-Condition checking (if, switch, for loops)
+  *Condition checking (if, switch, for loops)
 
-Menu-driven approach
+  *Menu-driven approach
 
 
 
